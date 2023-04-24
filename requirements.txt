@@ -1,0 +1,5 @@
+tinytag
+pytube
+moviepy
+youtube_search
+tqdm
