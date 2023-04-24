@@ -3,7 +3,7 @@ Simple Python CLI script for downloading N-hours of audio from Youtube, based on
 
 ### Installation instructions:
 
-> pip install -r requirements
+> pip install -r requirements.txt
 
 ### Run the script:
 
