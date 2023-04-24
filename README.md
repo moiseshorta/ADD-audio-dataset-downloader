@@ -7,4 +7,4 @@ Simple Python CLI script for downloading N-hours of audio from Youtube, based on
 
 ### Run the script:
 
-> python audio-dataset-downloader.py
+> python add.py
